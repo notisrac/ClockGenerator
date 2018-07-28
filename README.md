@@ -38,3 +38,6 @@ Breadboard:
 
 [Fritzing](http://fritzing.org/home/):
 ![Clock generator fritzing](clockgenerator_fritzing.jpg "Clock generator fritzing")
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/ClockGenerator)](https://github.com/igrigorik/ga-beacon)
